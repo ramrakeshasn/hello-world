@@ -7,7 +7,7 @@ public class Maintest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello World "+ CommonUtil.name);
+		System.out.println("Hello World  Mr. "+ CommonUtil.firstname +" "+CommonUtil.lastname);
 
 	}
 

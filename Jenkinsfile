@@ -1,12 +1,12 @@
 pipeline {
   agent {
     node {
-      label 'ram'
+      label 'master'
     }
 
   }
   stages {
-    stage('') {
+    stage('error') {
       steps {
         echo 'Hello Suresh this is my first Jenkins job under your guidance'
       }

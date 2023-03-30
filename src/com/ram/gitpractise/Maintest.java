@@ -8,6 +8,7 @@ public class Maintest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World  Mr. "+ CommonUtil.firstname +" "+CommonUtil.lastname);
+		System.out.println("Hello World  Mr. "+ CommonUtil.firstname +" "+CommonUtil.lastname);
 
 	}
 
